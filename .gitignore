@@ -1,0 +1,14 @@
+# Angular
+comerciantes_frontend/node_modules/
+comerciantes_frontend/dist/
+
+# Spring Boot
+comerciantes_backend/target/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
